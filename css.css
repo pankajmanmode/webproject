@@ -1,0 +1,29 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    font-family: 'Pangolin', cursive;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+
+h4 {
+  font-family: 'Pangolin', cursive;
+  color: green;
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #8c2020;  /*Sets the text hover color on navbar*/
+}
+
+hr {
+    border-color: inherit;
+}
+
+h3 {
+  font-family: 'Pangolin', cursive;
+  color: blue;
+}
