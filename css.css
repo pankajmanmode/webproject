@@ -36,6 +36,8 @@ h5 {
 }
 
 p {
-  font-family: 'Pangolin', cursive;
+    font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
   color: maroon;
 }
