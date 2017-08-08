@@ -1,5 +1,6 @@
 body {
-    background-color: cyan;
+     background: url("https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg") no-repeat center center;
+     background-size: cover;
     font-family: 'Merriweather';
 }
 
