@@ -1,43 +1,42 @@
 body {
-     background-color:  background: url("http://krisaru.com/wp-content/uploads/2011/08/background-website-light-blue-wallpapers-background-2.jpg") no-repeat center center;
+     background-color: url("http://krisaru.com/wp-content/uploads/2011/08/background-website-light-blue-wallpapers-background-2.jpg") no-repeat center center;
   background-size: cover;
     font-family: 'Merriweather';
 }
 
 h1 {
-    font-family: 'Pangolin', cursive;
+    font-family: 'Raleway', cursive;
     font-size: 40px;
-    color: red;
+    color: rgb(45, 12, 233);
     text-align: center;
 }
 
-h4 {
-  font-family: 'Merriweather';
-  color: green;
-  text-align: center;
-}
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 color: #8c2020;  /*Sets the text hover color on navbar*/
 }
 
-hr {
-    border-color: inherit;
-}
-
-h3 {
-  font-family: 'Pangolin', cursive;
-  color: blue;
-}
-
-h5 {
-  font-family: 'Pangolin', cursive;
-  color: green;
-}
-
-p {
+p,h4,h5 {
     font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: 100;
   color: maroon;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+tr>td{
+  text-align: left;
+}
+
+tr>td>ul>li {
+  text-align: left;
 }
