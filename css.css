@@ -1,13 +1,12 @@
 body {
-     background-color: url("http://krisaru.com/wp-content/uploads/2011/08/background-website-light-blue-wallpapers-background-2.jpg") no-repeat center center;
-  background-size: cover;
-    font-family: 'Merriweather';
+    background-color: url("/background-website-light-blue-wallpapers-background-2.jpg") no-repeat center center;
+    background-size: cover;
 }
 
 h1 {
-    font-family: 'Raleway', cursive;
+  font-family: 'Merriweather';
     font-size: 40px;
-    color: rgb(45, 12, 233);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -18,9 +17,9 @@ color: #8c2020;  /*Sets the text hover color on navbar*/
 
 p,h4,h5 {
     font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  font-weight: 100;
-  color: maroon;
+  font-size: 15px;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
 }
 
 h3 {
