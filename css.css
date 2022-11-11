@@ -34,9 +34,8 @@ table, th, td {
 }
 
 tr>td{
+  font-family: 'Raleway', sans-serif;
   text-align: left;
-}
-
-tr>td>ul>li {
-  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
 }
